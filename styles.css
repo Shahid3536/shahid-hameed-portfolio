@@ -331,12 +331,16 @@ h3 {
   gap: 18px;
 }
 
-.portrait-wrap {
+.portrait-wrap,
+.ai-visual-card {
   overflow: hidden;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background: var(--surface);
   box-shadow: var(--shadow);
+}
+
+.portrait-wrap {
   aspect-ratio: 4 / 5;
 }
 
@@ -345,6 +349,17 @@ h3 {
   height: 100%;
   object-fit: cover;
   object-position: 52% 20%;
+}
+
+.ai-visual-card {
+  aspect-ratio: 16 / 9;
+}
+
+.ai-visual-card img,
+.project-visual img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .signal-card,
@@ -438,61 +453,6 @@ h3 {
   background:
     linear-gradient(135deg, color-mix(in srgb, var(--accent) 26%, transparent), transparent),
     var(--bg-soft);
-}
-
-.browser-bar {
-  display: flex;
-  gap: 8px;
-  border-bottom: 1px solid var(--line);
-  padding: 16px;
-}
-
-.browser-bar span {
-  width: 10px;
-  height: 10px;
-  border-radius: 999px;
-  background: var(--accent-2);
-}
-
-.browser-bar span:nth-child(2) {
-  background: var(--accent);
-}
-
-.browser-bar span:nth-child(3) {
-  background: var(--muted);
-}
-
-.dashboard-mock {
-  display: grid;
-  grid-template-columns: 1.15fr 0.85fr;
-  gap: 16px;
-  padding: 22px;
-}
-
-.metric-card,
-.table-lines {
-  min-height: 112px;
-  border: 1px solid var(--line);
-  border-radius: var(--radius);
-  background: color-mix(in srgb, var(--surface-strong) 82%, transparent);
-}
-
-.metric-card.wide {
-  grid-column: 1 / -1;
-  min-height: 132px;
-}
-
-.table-lines {
-  grid-column: 1 / -1;
-  display: grid;
-  gap: 12px;
-  padding: 18px;
-}
-
-.table-lines span {
-  height: 12px;
-  border-radius: 999px;
-  background: color-mix(in srgb, var(--accent) 28%, var(--surface));
 }
 
 .project-details {
@@ -702,15 +662,6 @@ h3 {
 
   .project-visual {
     min-height: 310px;
-  }
-
-  .dashboard-mock {
-    grid-template-columns: 1fr;
-  }
-
-  .metric-card.wide,
-  .table-lines {
-    grid-column: auto;
   }
 
   .footer-inner {
