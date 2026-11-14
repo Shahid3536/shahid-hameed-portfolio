@@ -1,0 +1,280 @@
+# MASTER PROMPT: SHAHID HAMEED — PREMIUM PERSONAL PORTFOLIO WEBSITE
+
+Act as a senior UI/UX designer, creative frontend engineer, and full-stack web developer.
+
+Design and build a premium, production-ready portfolio website for Shahid Hameed, an AI Engineer, Automation Builder, and Full-Stack Developer. Use the verified details below. Do not invent additional biography, qualifications, project links, results, employment, awards, or statistics.
+
+Build a complete, functional, responsive website with professional design, smooth animations, clean architecture, and deployment-ready code. Create a distinctive personal brand rather than a generic portfolio template.
+
+---
+
+## 1. PERSONAL INFORMATION
+
+**Name:** Shahid Hameed
+
+**Professional Headline:** AI Engineer | Automation Builder | Full-Stack Developer
+
+**Location:** Multan, Pakistan
+
+**Language:** English
+
+**Education:** BS Artificial Intelligence, Bahauddin Zakariya University
+
+**About Me:** I build AI-powered assistants, automation systems, and full-stack web applications that solve practical problems. My focus includes useful AI-driven products, workflows that reduce repetitive work, and web applications that turn ideas into usable systems.
+
+**Professional Focus:**
+- AI assistants
+- Automation systems and AI agents
+- Machine learning
+- Full-stack web development
+- Practical product building
+
+**Opportunity Status:** Open to internships, jobs, freelance projects, collaborations, and AI-focused product work.
+
+**Email:** shahidhameed6002@gmail.com
+
+**WhatsApp / Phone:** +92 313 855 9601
+
+**LinkedIn:** https://www.linkedin.com/in/shahid-hameed-21789b386
+
+**GitHub:** https://github.com/Shahid3536
+
+Do not invent additional contact information. Use the provided email and phone only in the contact section.
+
+---
+
+## 2. TECHNICAL SKILLS
+
+Show these skills in visually organized categories. Do not add proficiency percentages or claim expertise levels.
+
+**AI Assistants**
+- LLM APIs
+- Prompt Engineering
+- Document AI
+
+**Automation**
+- Python
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+
+**Machine Learning and Programming**
+- Python
+- C++
+- SQL
+
+**Full-Stack Web**
+- JavaScript
+- MySQL
+- Web application development
+
+Use elegant technology badges, grouped cards, or a modern interactive skills grid. Preserve the distinction between tools, technologies, and focus areas.
+
+---
+
+## 3. FEATURED PROJECT
+
+### Restaurant Management System
+
+**Type:** Web application / operations platform
+
+**Purpose:** A web-based restaurant management system designed to digitize billing, reservations, and essential restaurant workflows. It supports online billing, booking and reservation management, and day-to-day operational tasks in one digital system.
+
+**Technology confirmed in the portfolio:** MySQL. The project is described as a web app; do not guess or add a specific frontend or backend stack.
+
+No public repository or live demo URL was provided for this project. Do not fabricate links. Show a project link only if a real URL is later supplied.
+
+The previous portfolio mentions future AI assistant, automation, machine learning, and web development projects as ideas for later. Do not present these as completed projects.
+
+---
+
+## 4. PROFESSIONAL APPROACH
+
+Present these portfolio statements as working principles, not awards or measured achievements:
+
+- Purpose over noise: features should solve clear problems and make experiences easier to use.
+- Build, test, improve: approach projects through iteration, clear structure, and practical delivery.
+- AI with direction: use AI to support real workflows, reliable decisions, and useful outcomes.
+
+Do not invent employment history, clients, certificates, awards, leadership positions, or statistics. Omit an achievements section if there is no verified content to include.
+
+---
+
+## 5. DESIGN DIRECTION
+
+Create a visually striking, premium, futuristic yet professional interface.
+
+**Color palette:**
+- Background: Deep navy / charcoal (#080D18)
+- Secondary background: #101827
+- Primary text: #F5F7FA
+- Secondary text: #A7B2C5
+- Accent blue: #4285FF
+- Cyan accent: #35D5F2
+
+**Visual style:**
+- Premium dark developer aesthetic
+- Modern typography
+- Subtle glass effects
+- Soft glowing gradients
+- Animated background mesh and floating blurred gradient orbs used sparingly
+- Subtle grid texture
+- Elegant borders and shadows
+- Smooth transitions
+- Professional project cards
+- Minimal, meaningful motion
+
+Avoid excessive neon effects, unnecessary animations, clutter, and generic template styling. Use a modern font such as Inter, Manrope, or Plus Jakarta Sans.
+
+### Hero Section
+
+Display:
+
+**SHAHID HAMEED**
+
+**AI Engineer · Automation Builder · Full-Stack Developer**
+
+“Building intelligent systems for real-world work.”
+
+Supporting copy: “I build AI-powered assistants, automation systems, and full-stack web apps that solve real-world problems.”
+
+Include:
+- View Projects button that scrolls to the project section
+- Contact button linked to the configured email
+- LinkedIn and GitHub profile links
+- WhatsApp contact link using the provided number
+- The existing portrait asset if available in the project; do not generate or substitute another person's portrait
+- Optional typing effect using the verified focus areas: AI Assistants, Automation, Machine Learning, and Web Apps
+
+Ensure any typing animation respects reduced-motion preferences.
+
+---
+
+## 6. WEBSITE STRUCTURE
+
+Build these sections:
+
+1. Sticky navigation with smooth scrolling
+2. Hero / introduction
+3. About
+4. Skills
+5. Featured project
+6. Education and current focus
+7. FAQ / opportunity information
+8. Contact
+9. Footer
+
+### Navigation
+
+Use Home, About, Skills, Projects, Journey, and Contact. Create a functional mobile navigation menu with an accessible open/close button.
+
+### About Section
+
+Use a modern split layout with Shahid's supplied introduction and professional approach. Emphasize practical AI engineering, useful automation, and the connection between AI systems and usable products. Do not add personal history that was not supplied.
+
+### Education and Current Focus
+
+Display:
+
+**BS Artificial Intelligence**  
+Bahauddin Zakariya University
+
+Describe the current focus as building practical skills across AI assistants, automation, machine learning, and web applications. Do not infer a semester, graduation date, or study status.
+
+### FAQ
+
+The FAQ may state that Shahid builds AI-powered assistants, automation systems, machine learning projects, and full-stack web applications; is open to opportunities listed above; and can be contacted through the supplied email, WhatsApp, LinkedIn, or GitHub.
+
+### Contact Section
+
+Include configured email, WhatsApp, phone, LinkedIn, and GitHub links. Use a real mailto link. Do not create a fake form that claims to send messages.
+
+---
+
+## 7. FUNCTIONAL REQUIREMENTS
+
+The website must:
+
+- Be fully responsive on mobile, tablet, laptop, and desktop
+- Have working navigation and configured profile/contact links
+- Include a functional accessible mobile menu
+- Include smooth scrolling
+- Include accessible interactive elements and visible keyboard focus indicators
+- Support prefers-reduced-motion
+- Use semantic HTML and optimized assets
+- Have no broken buttons, fabricated project URLs, or placeholder links
+- Have no horizontal overflow on mobile
+- Load efficiently and include appropriate SEO metadata
+- Use a favicon with a simple SH brand mark
+- Include a custom 404 page if the chosen deployment structure supports it
+
+Do not expose secrets, API keys, or private information beyond the contact details explicitly supplied for this public portfolio.
+
+---
+
+## 8. TECHNICAL IMPLEMENTATION
+
+Preferred stack:
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+Use separate files:
+
+portfolio/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── assets/
+    ├── images/
+    ├── icons/
+    └── favicon/
+
+Keep the implementation clean, reusable, and beginner-friendly. If React/Vite offers a substantial advantage, explain why before changing the stack. Avoid unnecessary dependencies and paid services.
+
+---
+
+## 9. PERSONAL BRANDING
+
+Create a consistent personal brand around **SHAHID HAMEED** and the positioning **AI Engineer · Automation Builder · Full-Stack Developer**.
+
+Communicate practical technical ability, problem-solving, product thinking, and continuous learning using only the portfolio information above. Do not inflate claims or invent metrics.
+
+---
+
+## 10. DEPLOYMENT REQUIREMENTS
+
+Prepare the project for GitHub and Vercel deployment. Include:
+- Complete working source code
+- README.md with setup instructions
+- Git initialization and push commands
+- Vercel deployment instructions
+- SEO configuration
+- Final verification checklist
+
+The website should work locally without requiring API keys or paid services.
+
+---
+
+## 11. EXECUTION INSTRUCTIONS
+
+Follow this workflow:
+
+1. Plan the architecture and design.
+2. Create the complete project structure.
+3. Implement all website sections.
+4. Add responsive styling and animations.
+5. Implement all interactions and navigation.
+6. Check configured links and functionality.
+7. Review mobile, tablet, and desktop layouts.
+8. Fix errors and remove unused code.
+9. Write a complete README.
+10. Prepare the project for GitHub and Vercel deployment.
+
+If the repository and development environment are available, implement the project directly in the workspace rather than merely giving code snippets. Complete the entire website, not just the homepage.
+
+Do not invent missing personal information. Keep unprovided project URLs and details omitted until they can be confirmed.
+
+### FINAL EXPECTATION
+
+Deliver a complete, polished, responsive, production-ready portfolio that presents Shahid Hameed accurately as an AI Engineer, Automation Builder, and Full-Stack Developer, using only the supplied portfolio details.
